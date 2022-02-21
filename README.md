@@ -16,7 +16,7 @@ I created it to improve my frontend skills 😃
 
 ## Live Demo
 
-[Live Demo Link](https://tomekswitecki.github.io/sign-up-component/)
+[Live Demo Link](https://tomekswitecki.github.io/single-column-coming-soon-page/)
 
 ## Authors
 
