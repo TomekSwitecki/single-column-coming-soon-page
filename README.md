@@ -2,7 +2,7 @@
 
 > This is a solution to the [Ping single column coming soon page](https://www.frontendmentor.io/challenges/ping-single-column-coming-soon-page-5cadd051fec04111f7b848da).
 
-![screenshot](./design/screenshot.png)
+![screenshot](./design/desktop-design.jpg)
 
 I created it to improve my frontend skills 😃
 
